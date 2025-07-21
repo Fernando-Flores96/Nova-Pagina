@@ -515,7 +515,7 @@ h6 {
   .fbs__net-navbar .navbar-nav li.dropstart > a .bi {
     -webkit-transform: rotate(90deg);
             transform: rotate(90deg);
-    margin-top: -10px;
+    margin-top: -80px;
   }
 }
 .fbs__net-navbar .navbar-nav li.dropend > a::after,
@@ -757,7 +757,7 @@ h6 {
   }
 }
 .hero__v6 {
-  padding: 10rem 0 !important;
+  padding: 6rem 0 !important;
 }
 .hero__v6 .hero-subtitle {
   background: color-mix(in srgb, var(--bs-secondary), transparent 70%);
